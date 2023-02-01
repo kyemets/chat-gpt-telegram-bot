@@ -9,7 +9,7 @@ import os.path
 import keyboard as kb
 
 
-bot = Bot("5810386021:AAGZ9LXIRO-Cf36kTNT4Qjf0yzJwydLMeLk")
+bot = Bot("TELEGRAM-BOT-TOKEN")
 dp = Dispatcher(bot)
 
 
